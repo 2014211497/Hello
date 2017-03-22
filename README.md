@@ -1,2 +1,2 @@
 # Hello
-No description
+This is a test repository.
